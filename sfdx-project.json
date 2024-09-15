@@ -5,7 +5,7 @@
       "default": true
     },
     {
-      "versionName": "ver 0.1",
+      "versionName": "2024-09-15",
       "versionNumber": "0.1.0.NEXT",
       "path": "sfdx-source",
       "default": false,
@@ -17,6 +17,7 @@
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "61.0",
   "packageAliases": {
-    "Apex Mocks": "0Hobm0000000989CAA"
+    "Apex Mocks": "0Hobm0000000989CAA",
+    "Apex Mocks@0.1.0-1": "04tbm00000031M9AAI"
   }
 }
